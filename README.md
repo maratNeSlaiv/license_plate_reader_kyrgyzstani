@@ -1,4 +1,4 @@
-Project to read most of the license plates driving in Kyrgyzstan
+Reader to the most of the license plates for cars driving in Kyrgyzstan
 
 * Download the repo
 * Install the dependencies
